@@ -5,4 +5,4 @@ The results are in tabular form. The columns are the genes, the standard deviati
 The rows are the distances from the tissue boundaries. The unit of measurement is one Stereo-seq bin at bin size 30. 
 
 ## sample scripts
-We included the analysis scripts of each sample in the `sample_scripts` directory for reproducibility.
+We included the analysis scripts of each sample in the `sample_scripts` directory for reproducibility. We have uploaded the results (`.h5ad` files including all data needed for full reproduction of resource tables) under this link: [IMGAG Cloud](https://cloud.imgag.de/s/yxANNYpbk52EqjW)
